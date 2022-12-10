@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @En-Huei
 - 👀 I’m a student in National_Taiwan_University, studying Mechanical_Engineering for bachelor degree
-- 🌱 I’m currently learning ... Machine_Learning
-- 💞️ I’m looking to collaborate on ... everything, not specified yet
+- 🌱 I’m currently learning ... System Optimization, Human Computer Interface
+- 💞️ I’m looking to collaborate on ... making games, or others
 - 📫 How to reach me ... b08502028@ntu.edu.tw
 
 <!---
