@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @En-Huei
-- 👀 I’m a student in National_Taiwan_University, graduated from Department of Mechanical_Engineering with bachelor degree
-- 🌱 I’m currently studying ... System Optimization and Human-Computer Interaction in Department of Computer Science and Information Engineering for master degree
-- 💞️ I’m looking to collaborate on ... making something useful, good-looking, or amusing
-- 📫 How to reach me ... slime52ray@gmail.com, b08502028@ntu.edu.tw, r12922105@ntu.edu.tw
+- 👀 I’m currently a master student in Human-Computer Interaction Lab, Department of Computer Science and Information Engineering, National_Taiwan_University; graduated from Department of Mechanical_Engineering.
+- 🌱 Estimated to gradute near June, 2025.
+- 💞️ I’m looking to collaborate on things that are novel (subjectively), or impactful to future society (objectively).
+- 📫 How to reach me ... slime52ray@gmail.com
 
 <!---
 En-Huei/En-Huei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
