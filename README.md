@@ -3,8 +3,8 @@
 - 🌱 Estimated to gradute near June, 2025.
 - 💞️ I’m looking to collaborate on things that are novel (subjectively), or impactful to future society (objectively).
 - 📫 How to reach me ... slime52ray@gmail.com
-
-![LeetCode Stats](https://leetcode.card.workers.dev/En-Huei?theme=dark&font=baloo&extension=null)
+[![En-Huei's GitHub stats](https://github-readme-stats.vercel.app/api?username=En-Huei)](https://github.com/En-Huei/github-readme-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/En-Huei?theme=dark&font=Kodchasan)
 
 <!---
 En-Huei/En-Huei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
