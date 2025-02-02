@@ -3,6 +3,7 @@
 - 🌱 Estimated to gradute near June, 2025.
 - 💞️ I’m looking to collaborate on things that are novel (subjectively), or impactful to future society (objectively).
 - 📫 How to reach me ... slime52ray@gmail.com
+- [Resume](https://drive.google.com/file/d/1i9UVLeo-mZusVG1dd44g1FzdCJm3OcMY/view?usp=drive_link)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/En-Huei?theme=dark&font=Kodchasan)
 
