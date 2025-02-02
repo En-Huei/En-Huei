@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on things that are novel (subjectively), or impactful to future society (objectively).
 - 📫 How to reach me ... slime52ray@gmail.com
 
+![LeetCode Stats](https://leetcode.card.workers.dev/En-Huei?theme=dark&font=baloo&extension=null)
+
 <!---
 En-Huei/En-Huei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
